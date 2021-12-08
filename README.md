@@ -1,5 +1,5 @@
 # RepositoryComands
-Repositorio de los comandos que se iran viendo en el curso de Sistemas operativos
+Repositorio de los comandos que se vieron en el curso de Sistemas operativos
 
 | Comando | Descripcion |
 | ------------- | ------------- |
