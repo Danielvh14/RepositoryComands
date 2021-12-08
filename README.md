@@ -115,3 +115,8 @@ Repositorio de los comandos que se iran viendo en el curso de Sistemas operativo
 | docker rm idinstancias | Borrar una instancia |
 | docker rmi “nombreinstancia” | borrar una instancia |
 | Docker run -ti –rm nomredelainstancia | Borrar en automático al salir del Docker  |
+| sudo apachectl start | iniciar apache |
+| sudo yum install appporinstalar | Instalar apliaciones en Linux | 
+| gparted | Editor de particiones | 
+| ps -aux | Verificar el estatus de un proceso |
+| pwd | Imprimir el nombre del directorio actual |
