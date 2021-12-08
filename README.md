@@ -26,7 +26,7 @@ Repositorio de los comandos que se iran viendo en el curso de Sistemas operativo
 | wget + direccion url | sirve para descargar archivos |
 | git clone https://github.com/mortasoft/linux-scripts | sirve para copiar un github en ubuntu| 
 | curl | sirve para enviar datos a una pagina web | 
-| curl -X GET -L https://script.google.com/macros/s/AKfycby61tcPuNY3dw_3IYqNGFnR6Ei55MrLFPe_PHup_VMnGP07HeoRyIy5W8xlrheMB7vJ/exec?data=$nombre | Metemos nuestro nombre a la aplicacion web que desarrollamos |
+| curl -X GET -L direcciondelscrip | Sirve para ingresar nuestro nombre a la aplicacion web que desarrollamos |
 | wc | sirve para hacer conteo de palabras |
 | wc /var/log/syslog | cantidad de lineas que tiene el archivo y la cantidad de palabras que hay en esas lineas, de ultimo sale la cantidad de carcacteres |
 | wc /var/log/syslog -l	 | es una ele y es para ver solo las lineas  |
@@ -75,10 +75,10 @@ Repositorio de los comandos que se iran viendo en el curso de Sistemas operativo
 | Ls – lh 	 | me muestra mas lindo el tamaño de los archivos que tengo en ese directorio |
 | chmod	 | cambio laos permisos de usuario |
 | du – h +nombredelarchivo	 | me dice el tamaño del archivo  |
-| stat +nombredearchivo	Fecha de creación. Cuando se acceso, cuando fue modificado, y cuando cambio el archivo  |
-| touch +nombre del archivo 	Le cambia la hora de ultima modificación por la actual |
-| Touch + nombrede archivo que no existe	Crea un archivo vacio |
-| file + nombre del arhivo	me da el formato del arhivo |
+| stat +nombredearchivo	Fecha de creación.| Cuando se acceso, cuando fue modificado, y cuando cambio el archivo  |
+| touch +nombre del archivo | Le cambia la hora de ultima modificación por la actual |
+| Touch + nombrede archivo que no existe | Crea un archivo vacio |
+| file + nombre del arhivo	| me da el formato del arhivo |
 | ps -aux | 	Busca los procesos abiertos y con |
 | Grep  | Me ayuda a buscar el programa |
 | Kill – 9 ### num programa | 	Cerrar de golpe un programa |
